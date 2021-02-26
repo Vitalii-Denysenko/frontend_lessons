@@ -1,0 +1,72 @@
+* { box-sizing: border-box;
+}
+body {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    font-size: 30px;
+    line-height: 36px;
+    font-family: Bw Modelica;
+}
+h2 {
+    line-height: 21px;
+    margin: 0;
+    padding: 0;
+}
+
+.Ferguson {
+    height: 612px;
+    width: 270px;
+    background-image: url(/img/adult-backpack-city-845457.png);
+    background-repeat: no-repeat;
+}
+.Ferguson-content {
+    padding-left: 16px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    height: 612px;
+}
+
+.description {
+    background-color: #F9F9F9;
+    padding-top: 36px;
+    padding-left: 82px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-top: 39px;
+    height: 499px;
+}
+.title {
+    padding-top: 32px;
+    padding-left: 82px;
+}
+
+.Ferguson-ul {
+    display: flex;
+    padding: 0 0 0 16px;
+    margin: 0;
+}
+.title-text {
+    font-size: 18px;
+    line-height: 21px;
+    color: #666666;
+}
+.logo {
+    width: 113px;
+    height: 44px;
+    left: 787px;
+    top: 568px;
+    font-family: Audi Type;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+    margin-left: auto;
+}
